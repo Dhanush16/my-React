@@ -1,13 +1,9 @@
-
-// import './App.css'
-// import FirstC from './components/FirstC'
-import Form from './components/Form'
+import TodoList from './components/TodoList'
 
 function App() {
   return (
     <>
-      {/* <FirstC /> */}
-      <Form/>
+      <TodoList/>
     </>
   )
 }
